@@ -1,8 +1,17 @@
 # Notepad: Definitive Edition
-The Windows Notepad, but better.
+The Windows Notepad, but more better.
 
 ![logo](https://user-images.githubusercontent.com/108637656/199874500-463b618f-e3d8-4e81-b11f-dd050695b562.png)
 
+# Info
+The reasons why Notepad: DE is better than the windows notepad.
+* You can save/open files in over 5 files.
+* Your code can save on it easily.
+* There are more buttons to use than Windows Notepad.
+* Easy to use.
+# Requirements
+* Python 3.
+* A Windows computer. (IDK IF THIS WORKS ON MAC OR LINUX.)
 # Running
 * Tutorial on how to run the file.
 1. Install python 3. If you haven't, click <a href="https://www.python.org/downloads/" target="_blank" class="footer-top_link">here</a>.
